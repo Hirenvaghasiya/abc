@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+.table{  box-shadow: 20px 20px 40px #333333;
+		border: #09F;
+		border-radius:5px;
+	  }
+.tbox{
+	  height:40px;
+	  width:190px;
+	  border:#CCC;
+	  font-family:"Times New Roman", Times, serif;
+	  font-size:20px;
+	  border-style:solid;
+	  border-radius:10px;
+	  
+	 }	
+
+.email{ 
+		
+	  height:40px;
+	  width:380px;
+	  border:#CCC;
+	  font-family:"Times New Roman", Times, serif;
+	  font-size:20px;
+	  border-style:solid;
+	  border-radius:10px;
+	 
+	 }
+.dropdown{
+		
+  position: relative;
+  
+  border-left-style:solid;
+  overflow: hidden;
+  height:30px;
+  width:80px;
+  background:#FFF;
+  background-image: -webkit-linear-gradient(top, transparent, rgba(0, 0, 0, 0.06));
+  background-image: -moz-linear-gradient(top, transparent, rgba(0, 0, 0, 0.06));
+  background-image: -o-linear-gradient(top, transparent, rgba(0, 0, 0, 0.06));
+  background-image: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.06));
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08);
+  box-shadow: 10px 10px 10px rgb(10,20,30);
+		  }
+.error{
+	font-family:"Times New Roman", Times, serif; font-size:16px;
+	color:#900;
+	}
+	
+	
+	
+.submit
+{
+	height:30px;
+	width:100px;
+	border-radius:15px;	
+	border-color:#000;
+	background-color:#999;
+	color:#000;
+	font-size:18px;	
+	
+}
